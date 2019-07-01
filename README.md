@@ -1,5 +1,5 @@
 # Processamento de Linguagem Natural
-Neste repositório será armazenado notebook importantes para executar tarefas de PLN.
+Neste repositório será armazenado notebooks importantes para executar tarefas de PLN.
 
 Os notebooks serão ordenados de uma forma que faça sentido para entendimento do tema.
 
